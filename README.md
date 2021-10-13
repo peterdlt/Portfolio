@@ -4,7 +4,7 @@ A collection of selected files to demonstrate skill sets, knowledge and what I f
 
 ## Contents
 * __SQL__: Examples of executing and formulating SQL queries for selected business cases.
-* __Python__:
+* __Python__: Examples of web scraping, data cleaning, exploratory data analysis, model building and viusalizations.
 
 ## In Progress
 * __Movement of old projects into this repository__
