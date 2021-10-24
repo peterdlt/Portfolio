@@ -7,4 +7,4 @@ A collection of selected files to demonstrate skill sets, knowledge and what I f
 * __Python__: Examples of web scraping, data cleaning, exploratory data analysis, model building and viusalizations.
 
 ## In Progress
-* __Movement of old projects into this repository__
+* __Movement of old & new projects into this repository__
