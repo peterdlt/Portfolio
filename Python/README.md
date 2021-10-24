@@ -2,7 +2,7 @@
 
 ## Contents
 * Yahoo Finance auto stock analysis, visualizations
-* Calgary Crime Stats
+* ![Calgary Crime Stats](https://github.com/peterdlt/Portfolio/blob/main/Python/calgary.crime.ipynb)
   * Use of Socrata API
   * Data Cleaning
   * EDA
